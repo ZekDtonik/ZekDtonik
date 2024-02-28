@@ -1,12 +1,12 @@
-### Hi there 👋
+## Acesso o meu portifólio 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZekDtonik&show_icons=true&theme=radical&count_private=true)
+[Kevin Redcomet Portifólio](https://kevin.redcomet.com.br)
 
 <!--
 **ZekDtonik/ZekDtonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZekDtonik&show_icons=true&theme=radical&count_private=true)
 Here are some ideas to get you started:
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZekDtonik&show_icons=true&theme=radical&count_private=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
