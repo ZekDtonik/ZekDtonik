@@ -22,11 +22,11 @@
 
 ### My Stats ###
 
-[![GitHub Stats](https://github-readme-stats-4w7uxpdeb-kevin-santanas-projects-4223389a.vercel.app/api?username=zekdtonik&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats-kevin-santanas-projects-4223389a.vercel.app/api?username=zekdtonik&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### My most language uses ###
 
-![Top Langs](https://github-readme-stats-4w7uxpdeb-kevin-santanas-projects-4223389a.vercel.app/api/top-langs/?username=zekdtonik&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-kevin-santanas-projects-4223389a.vercel.app/api/top-langs/?username=zekdtonik&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!--
 https://github.com/ZekDtonik/ZekDtonik/assets/24943857/88380dbf-0ff3-4864-acd5-a5b00ae2a8bc
